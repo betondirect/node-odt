@@ -21,18 +21,18 @@
   "author": "Dominik Burgdörfer <dominik.burgdoerfer@mikanda.de>",
   "license": "BSD",
   "dependencies": {
-    "unzip": "~0.1.7",
-    "pipette": "~0.9.3",
-    "async": "~0.2.9",
-    "adm-zip": "~0.4.3",
-    "archiver": "~0.4.3",
-    "colors": "~0.6.0-1",
-    "merge": "~1.1.1",
-    "xmldom": "~0.1.16"
+    "unzip": "0.1.7",
+    "pipette": "0.9.3",
+    "async": "0.2.9",
+    "adm-zip": "0.4.3",
+    "archiver": "0.4.3",
+    "colors": "0.6.0-1",
+    "merge": "1.1.1",
+    "xmldom": "0.1.16"
   },
   "devDependencies": {
-    "should": "~1.2.2",
-    "mocha": "~1.12.0"
+    "should": "1.2.2",
+    "mocha": "1.12.0"
   },
   "readmeFilename": "README.md",
   "directories": {
